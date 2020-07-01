@@ -1,0 +1,32 @@
+{
+  "name": "spiraljs-aws-lambda-mysql",
+  "version": "1.0.0",
+  "description": "AWS Lambda function to perform CRUD operations with MySQL database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiraljs/spiraljs-aws-lambda-mysql.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "mysql",
+    "serverless",
+    "crud",
+    "database",
+    "rest-api",
+    "api"
+  ],
+  "author": "SpiralJS",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spiraljs/spiraljs-aws-lambda-mysql/issues"
+  },
+  "homepage": "https://github.com/spiraljs/spiraljs-aws-lambda-mysql#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
